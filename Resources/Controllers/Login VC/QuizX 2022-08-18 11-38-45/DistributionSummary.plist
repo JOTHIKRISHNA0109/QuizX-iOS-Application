@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>QuizX.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>E752685AE2370093B1ECA1E333B63845EE1BD480</string>
+				<key>dateExpires</key>
+				<string>07/10/22</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>R4F89R73A4.com.vtouch.zcrm.demo.quizx</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>R4F89R73A4</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>QuizX.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>a1f09564-89a8-4e81-9520-f8242b2c1df5</string>
+				<key>dateExpires</key>
+				<string>07/10/22</string>
+				<key>name</key>
+				<string>Zoho CRM New joinees Demo</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>R4F89R73A4</string>
+				<key>name</key>
+				<string>Sathish Rajagopalan</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
